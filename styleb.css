@@ -1,0 +1,95 @@
+/* *{
+color: #000080
+margin: 0;
+box-sizing: border-box;
+}*/
+
+/* html, body{
+  background-color: #ffffff;
+  font-size: 16px;
+} */
+/* body{
+  padding-left: 20px;
+  padding-right: 20px ;
+ }
+/* header{ */
+/* text-align: center;
+  font-weight: bold;
+  margin-bottom: 1em;
+ } */
+/* .text-lg{
+    font-size: 1.8em;
+  }
+    /* .text-lg{
+    font-size: 0.8em;(0.8*1.5*16)
+  }
+h1 {
+  font-size: 1.5em;
+  text-transform: uppercase;
+} */
+/* a{
+  color: #800080;
+ } */
+/* main>div{ main入面既div
+  Xwidth: 49%;X
+  Xfloat: left; X
+  /flexbox/grid/
+  diplay: inline-block;
+
+  } */
+/* main ul li{
+    height: 55px;
+   } */
+/* main ul li p{
+    font-size: 0.7em;
+    margin-top: 0.5em;
+   } */
+/* main{
+      overflow: auto;
+    } */
+/* aside{
+      text-align: center;
+      font-size: 0.6em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+     } */
+
+#heading {
+  color: #000080;
+  text-align: center;
+  font-weight: bold;
+  line-height: 20px;
+}
+#list1 {
+  color: #800080;
+}
+#list2 {
+  color: #800080;
+}
+#footer1 {
+  color: #000080;
+  text-align: center;
+}
+#body1 {
+  color: #800080;
+  float: left;
+  line-height: 48px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 60px;
+}
+
+#body2 {
+  color: #800080;
+  margin: 0 auto;
+  position: relative;
+  display: inline-block;
+  line-height: 44px;
+  padding-left: 20px;
+  padding-bottom: 60px;
+}
+.date_remark {
+  font-size: 12px;
+  color: #000080;
+  line-height: 1px;
+}
